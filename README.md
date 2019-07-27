@@ -1,5 +1,5 @@
 # Cat Drawing using WebGL
-> CMSC 161 (Computer Graphics) Drawing Primitives II Exer, 2nd Semester AY 2015-2016, University of the Philippines Los Baños
+> CMSC 161 (Computer Graphics) Drawing Primitives II Lab Exercise, 2nd Semester AY 2015-2016, University of the Philippines Los Baños
 
 The task was to draw the jpg image using WebGL.
 
